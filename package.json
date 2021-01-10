@@ -1,0 +1,16 @@
+{
+  "name": "com.scellecs.collections.testsuite",
+  "author": "Oleg Morozov",
+  "displayName": "Fast Collections TestSuite",
+  "description": "Test Suite for Collection Types.",
+  "unity": "2019.3",
+  "version": "2021.1.0",
+  "keywords": [
+    "collections"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scellecs/collections"
+  }
+}
