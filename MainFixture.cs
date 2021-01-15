@@ -130,7 +130,7 @@
             
             ihm.Set(key, value, out slotIndex);
             
-            Assert.AreEqual(value, ihm.data[key]);
+            Assert.AreEqual(value, ihm.data[slotIndex / 2]);
         }
         
         [Test]
